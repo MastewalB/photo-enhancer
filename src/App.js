@@ -5,6 +5,7 @@ import Navbar from './Navbar';
 function App() {
   return (
     <div className="App">
+      <div id="tm-bg"></div>
       <Navbar />
       <Home />
     </div>
